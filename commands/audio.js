@@ -1,16 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
-
-
 const { lang, ffmpeg,amd ,cmd } = require('../lib')
 const fs = require('fs')
 const { exec } = require('child_process')

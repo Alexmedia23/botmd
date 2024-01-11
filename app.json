@@ -1,14 +1,14 @@
 {
-    "name": "Aviator-Md By Suhail Tech Info",
-    "description": "A Whatsapp bot built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
+    "name": "Jovia-Md By Joshua Tech Info",
+    "description": "A Whatsapp bot built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/JoshuaTechInfo",
     "logo": "https://i.imgur.com/NpA3ZsJ.jpeg",
-    "keywords": ["nodejs", "bot", "whatsapp bot", "Aviator-Md", "AviatorMd", "Aviator","AviatorBot","Game bot","multi device"],
+    "keywords": ["nodejs", "bot", "whatsapp bot", "Jovia-Md", "JoviaMd", "Jovia","JoviaBot","Game bot","multi device"],
     "success_url": "/",
     "stack": "container",
   "env": {
     "OWNER_NAME": {
     "description": "Name of Bot Owner",
-        "value": "Suhail Tech Info"
+        "value": "Joshua Tech Info"
     },
      "BOT_PIC": {
       "description": "THUMB_IMAGE for bot.",
@@ -71,7 +71,7 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-       "value": "Aviator-Md",
+       "value": "Jovia-Md",
        "required": false 
     },
   "PACK_AUTHER": {

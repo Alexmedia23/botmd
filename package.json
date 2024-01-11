@@ -1,15 +1,15 @@
 {
-    "name": "aviator-md",
+    "name": "Jovia-Md",
     "version": "0.0.1",
-    "description": "Multi device whatsapp bot by SuhailTechInfo.",
+    "description": "Multi device whatsapp bot by JoshuaTechInfo.",
     "main": "lib/client.js",
     "type": "commonjs",
     "license": "GPL-3.0",
 "scripts": {
-     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Aviator-Md",
-     "stop": "pm2 stop Aviator-Md"
+     "start": "pm2 start lib/client.js --deep-monitoring --attach --name Jovia-Md",
+     "stop": "pm2 stop Jovia-Md"
      },
-    "author": "SuhailTechInfo",
+    "author": "JoshuaTechInfo",
    "dependencies": {
             "@sampandey001/baileys": "latest",
             "@adiwajshing/keyed-db": "^0.2.4",
@@ -73,10 +73,10 @@
          },
       "repository": {
       "type": "git",
-      "url": "git+https://github.com/SuhailTechInfo/Aviator-Md.git"
+      "url": "git+https://github.com/JoshuaTechInfo/Jovia-Md.git"
        },
       "bugs": {
-      "url": "https://github.com/SuhailTechInfo/Aviator-Md/issues"
+      "url": "https://github.com/JoshuaTechInfo/Jovia-Md/issues"
        },
-      "homepage": "https://github.com/SuhailTechInfo/Aviator-Md#readme"
+      "homepage": "https://github.com/JoshuaTechInfo/Jovia-Md#readme"
        }
